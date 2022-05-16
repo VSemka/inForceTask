@@ -1,0 +1,78 @@
+.box_phone{
+    padding: 10px 20px;
+    margin-bottom: 40px;
+    position: relative;
+    flex: 0 1 40%;
+    transition: all .8s ease-in-out;
+}
+.box_phone:hover{
+    transform: rotateY(180deg);
+}
+.box_img{
+    margin:0 auto 30px auto;
+    max-width: 300px;
+    overflow: hidden;
+}
+.img{
+    width:100%;
+    transition: all .3s ease-in-out;
+}
+.img:hover{
+    transform: scale(1.1);
+}
+.title{    
+    margin-bottom: 10px;
+    font-size: 42px;
+    line-height: 52px;
+    text-align: center;
+    opacity: 1;
+    transition: all .4s ease-in-out;
+}
+.desc{
+    margin-bottom: 5px;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: 'Raleway', sans-serif; 
+    font-weight: 500;
+    position: absolute;
+    background-color: white;
+    visibility: hidden;
+    opacity: 0;
+    transform: rotateY(180deg);
+    transition: all .4s ease-in-out;
+}
+.price{
+    font-size: 24px;
+    line-height: 28px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: goldenrod;
+    transition: all .3s ease-in-out;
+}
+.box_phone:hover .title{
+    visibility: hidden;
+    opacity: 0;
+    transform: translate(0,-50%);
+}
+.box_phone:hover .desc{
+    bottom: 50px;
+    visibility: visible;
+    opacity: 1;
+}
+.box_phone:hover .price{
+    visibility: hidden;
+}
+@media screen and (max-width:860px){
+    .box_img{
+        max-width: 250px;
+    }
+    .title{    
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .desc{
+        font-size: 16px;
+        line-height: 20px;
+    }
+}
