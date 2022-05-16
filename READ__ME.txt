@@ -1,0 +1,6 @@
+Для роботи з json я використовував JSON SERVER, що є встановлений в мене локально. 
+В директорії з проектом є файл db.json який потрібно перенести на робочий стіл.
+Посилання на JSON SERVER https://github.com/typicode/json-server
+Після цого потрібно запустити JSON SERVER за домомогою команди json-server --watch db.json
+Після чого відкрити посилання https://capable-clafoutis-589a42.netlify.app/
+Або розвернути проект локально.

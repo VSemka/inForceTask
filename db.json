@@ -1,0 +1,704 @@
+{
+  "phones": [
+    {
+      "id": 0,
+      "imageUrl": "https://c.ua/image/cache/catalog/BlackFriday/111/Maki/ajfon-blek-500x500.png",
+      "name": "Apple iPhone 11 64 GB Black Slim Box",
+      "price": "18 999₴",
+      "description": "Екран (6.1\"/ IPS (Liquid Retina HD), 1792x828) / Apple A13 Bionic / основна подвійна камера: 12 Мп + 12 Мп, фронтальна камера: 12 Мп / RAM 4 ГБ / 64 ГБ вбудованої пам'яті / 3G / LTE / GPS / ГЛОНАСС / Nano-SIM / iOS 13 / 3046 мА·год"
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://hotline.ua/img/tx/298/2989122275.jpg",
+      "name": "Apple iPhone 13 Pro Max 128 GB Gold",
+      "price": "41 999₴",
+      "description": "Екран (6.7\", OLED (Super Retina XDR), 2778x1284) / Apple A15 Bionic / потрійна основна камера: 12 Мп + 12 Мп + 12 Мп, фронтальна камера: 12 Мп / 128 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / Nano-SIM / iOS 15"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://estore.ua/media/catalog/product/cache/8/image/650x650/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone-12-purple_1__1.jpeg",
+      "name": "Apple iPhone 12 64 GB Purple",
+      "price": "24 999₴",
+      "description": "Екран (6.1\", OLED (Super Retina XDR), 2532x1170) / Apple A14 Bionic / подвійна основна камера: 12 Мп + 12 Мп, фронтальна камера: 12 Мп / 64 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / Nano-SIM, eSIM / iOS 14"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://hotline.ua/img/tx/298/2989120475.jpg",
+      "name": "Apple iPhone 13 512 GB Blue",
+      "price": "39 999₴",
+      "description": "Екран (6.1\", OLED (Super Retina XDR), 2532x1170) / Apple A15 Bionic / подвійна основна камера: 12 Мп + 12 Мп, фронтальна камера: 12 Мп / 512 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / Nano-SIM, eSIM / iOS 15"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://hotline.ua/img/tx/324/3241485345.jpg",
+      "name": "Apple iPhone 11 128 GB Black Slim Box",
+      "price": "20 999₴",
+      "description": "Екран (6.1\", IPS (Liquid Retina HD), 1792x828) / Apple A13 Bionic / основна подвійна камера: 12 Мп + 12 Мп, фронтальна камера: 12 Мп / RAM 4 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / GPS / ГЛОНАСС / Nano-SIM / iOS 13 / 3046 мА·год"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://hotline.ua/img/tx/298/2989120365.jpg",
+      "name": "Apple iPhone 13 256 GB Blue",
+      "price": "31 999₴",
+      "description": "Екран (6.1\", OLED (Super Retina XDR), 2532x1170) / Apple A15 Bionic / подвійна основна камера: 12 Мп + 12 Мп, фронтальна камера: 12 Мп / 256 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / Nano-SIM, eSIM / iOS 15"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://hotline.ua/img/tx/298/2989122605.jpg",
+      "name": "Apple iPhone 13 Pro Max 1TB Sierra Blue",
+      "price": "59 999₴",
+      "description": "Екран (6.7\", OLED (Super Retina XDR), 2778x1284) / Apple A15 Bionic / потрійна основна камера: 12 Мп + 12 Мп + 12 Мп, фронтальна камера: 12 Мп / 1 ТБ вбудованої пам'яті / 3G / LTE / 5G / GPS / Nano-SIM / iOS 15"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://hotline.ua/img/tx/298/2989121685.jpg",
+      "name": "Apple iPhone 13 mini 512 GB Midnight",
+      "price": "33 999₴",
+      "description": "Екран (5.4\", OLED (Super Retina XDR), 2340х1080) / Apple A15 Bionic / подвійна основна камера: 12 Мп + 12 Мп, фронтальна камера: 12 Мп / 512 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / Nano-SIM, eSIM / iOS 15"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://hotline.ua/img/tx/298/2989121475.jpg",
+      "name": "Apple iPhone 13 mini 256 GB",
+      "price": "29 999₴",
+      "description": "Екран (5.4\", OLED (Super Retina XDR), 2340х1080) / Apple A15 Bionic / подвійна основна камера: 12 Мп + 12 Мп, фронтальна камера: 12 Мп / 256 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / Nano-SIM, eSIM / iOS 15"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://hotline.ua/img/tx/298/2989122055.jpg",
+      "name": "Apple iPhone 13 Pro 512 GB Graphite",
+      "price": "49 999₴",
+      "description": "Екран (6.1\", OLED (Super Retina XDR), 2532x1170) / Apple A15 Bionic / потрійна основна камера: 12 Мп + 12 Мп + 12 Мп, фронтальна камера: 12 Мп / 512 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / Nano-SIM / iOS 15"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_7848_1.jpg",
+      "name": "Samsung Galaxy S21 8/256 GB Phantom Grey",
+      "price": "23 499₴",
+      "description": "Екран (6.2\", Dynamic AMOLED 2X, 2400x1080) / Samsung Exynos 2100 (1 x 2.9 ГГц + 3 x 2.8 ГГц + 4 x 2.2 ГГц) / потрійна основна камера: 64 Мп + 12 Мп + 12 Мп, фронтальна 10 Мп / RAM 8 ГБ / 256 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11.0 / 4000 мА·год"
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_7841_4.jpg",
+      "name": "Samsung Galaxy S21 Ultra 12/128 GB Phantom Black",
+      "price": "32 499₴",
+      "description": "Екран (6.8\", Dynamic AMOLED 2X, 3200x1440) / Samsung Exynos 2100 (1 x 2.9 ГГц + 3 x 2.8 ГГц + 4 x 2.2 ГГц) / основна квадрокамера: 108 Мп + 12 Мп + 10 Мп + 10 Мп, фронтальна : 40 Мп / RAM 12 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11.0 / 5000 мА·год"
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8560_0_1_637798472792985478.jpg",
+      "name": "Samsung Galaxy S22 Ultra 12/256 GB Phantom Black",
+      "price": "45 499₴",
+      "description": "Екран (6.8\", Dynamic AMOLED 2X, 3088x1440) / Samsung Exynos 2200 (2.8 ГГц + 2.5 ГГц + 1.8 ГГц) / основна квадрокамера: 108 Мп + 12 Мп + 10 Мп + 10 Мп, фронтальна 40 Мп / RAM 12 ГБ / 256 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 12 / 5000 мА·год"
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://c.ua/image/catalog/BlackFriday/111/flipfold3.jpg",
+      "name": "Samsung Galaxy Fold3 12/256 GB Phantom Green",
+      "price": "45 999₴",
+      "description": "Екран (6.2\", Dynamic AMOLED 2X, 2268x832) + (7.6\", Dynamic AMOLED 2X, 2208x1768) / Qualcomm Snapdragon 888 (2.84 ГГц + 2.4 ГГц + 1.8 ГГц) / потрійна основна камера: 12 Мп + 12 Мп + 12 Мп, фронтальна камера 10 Мп / допоміжна фронтальна 4 Мп / RAM 12 ГБ / 256 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) + eSIM / Android 11 / 4400 мА·год"
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://cdn.comfy.ua/media/catalog/product/cache/4/image/600x/9df78eab33525d08d6e5fb8d27136e95/s/m/sm-s908_galaxys22ultra_devicepenbackl30_phantomblack_211119_2.jpg",
+      "name": "Samsung Galaxy S22 Ultra 8/128 GB Phantom Black",
+      "price": "42 999₴",
+      "description": "Екран (6.8\", Dynamic AMOLED 2X, 3088x1440) / Samsung Exynos 2200 (2.8 ГГц + 2.5 ГГц + 1.8 ГГц) / основна квадрокамера: 108 Мп + 12 Мп + 10 Мп + 10 Мп, фронтальна 40 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 12 / 5000 мА·год"
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8459_0_1_637744865085036827.jpg",
+      "name": "Samsung Galaxy Flip3 8/128 GB Green",
+      "price": "25 999₴",
+      "description": "Екран (1.9\" Super AMOLED, 512х260) + (6.7\", Dynamic AMOLED 2X, 2640x1080) / Qualcomm Snapdragon 888 (2.84 ГГц + 2.4 ГГц + 1.8 ГГц) / подвійна основна камера: 12 Мп + 12 Мп, фронтальна 10 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / Nano-SIM + eSIM / Android 11 / 3300 мА·год"
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/8/9/8978978978_2.jpg",
+      "name": "Samsung Galaxy M52 5G 6/128 GB Black",
+      "price": "11 999₴",
+      "description": "Екран (6.7\", Super AMOLED Plus, 2400х1080) / Qualcomm Snapdragon 778G (2.4 ГГц + 1.8 ГГц) / потрійна основна камера: 64 Мп + 12 Мп + 5 Мп, фронтальна 32 Мп / RAM 6 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/s/m/sm-s908_galaxys22ultra_front_burgundy_211119_result_1_1.jpg",
+      "name": "Samsung Galaxy S22 Ultra 12/512 GB Burgundy",
+      "price": "49 999₴",
+      "description": "Екран (6.8\", Dynamic AMOLED 2X, 3088x1440) / Samsung Exynos 2200 (2.8 ГГц + 2.5 ГГц + 1.8 ГГц) / основна квадрокамера: 108 Мп + 12 Мп + 10 Мп + 10 Мп, фронтальна 40 Мп / RAM 12 ГБ / 512 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 12 / 5000 мА·год"
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/6/d/6dddf3156fc6d11ce517a93fbea5d93e.jpg",
+      "name": "Samsung Galaxy M32 6/128 GB Black",
+      "price": "9 599₴",
+      "description": "Екран (6.4\", Super AMOLED, 2400x1080) / MediaTek Helio G80 (2.0 ГГц + 1.8 ГГц) / основна квадрокамера: 64 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна камера: 20 Мп / RAM 6 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_7891_3.jpg",
+      "name": "Samsung Galaxy A52 4/128 GB Blue",
+      "price": "11 999₴",
+      "description": "Екран (6.5\", Super AMOLED, 2400x1080) / Qualcomm Snapdragon 720G (2 x 2.3 ГГц + 6 x 1.8 ГГц) / основна квадрокамера: 64 Мп + 12 Мп + 5 Мп + 5 Мп, фронтальна 32 Мп / RAM 4 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / GPS / A-GPS / ГЛОНАСС / BDS / підтримка 2 SIM-карток (Nano-SIM) / Android 11.0 (One UI) / 4500 мА·год"
+    },
+    {
+      "id": 20,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/1/1/11_451_5.jpg",
+      "name": "Xiaomi 11T 8/256 GB Meteorite Gray",
+      "price": "16 999₴",
+      "description": "Екран (6.67\", AMOLED, 2400x1080) / MediaTek Dimensity 1200 (3.0 ГГц + 2.0 ГГц) / потрійна основна камера: 108 Мп + 8 Мп + 5 Мп, фронтальна 16 Мп / RAM 8 ГБ / 256 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 21,
+      "imageUrl": "https://cdn.comfy.ua/media/catalog/product/k/7/k7b-blue-_1__1_1_.jpg",
+      "name": "Xiaomi Redmi Note 10S 6/128 GB Ocean Blue",
+      "price": "15 944₴",
+      "description": "Екран (6.43\", AMOLED, 2400x1080) / MediaTek Helio G95 (2.05 ГГц) / основна квадрокамера: 64 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна 13 Мп / RAM 6 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 22,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/k/7/k79562_1gfh.jpg",
+      "name": "Xiaomi Redmi Note 11 4/128 GB Star Blue",
+      "price": "8 899₴",
+      "description": "Екран (6.43\", AMOLED, 2400x1080) / Qualcomm Snapdragon 680 (2.4 ГГц) / основна квадрокамера: 50 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна 13 Мп / RAM 4 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 23,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/1/_/1_2601_6_1.jpg",
+      "name": "Xiaomi 11T 8/128 GB White",
+      "price": "14 499₴",
+      "description": "Екран (6.67\", AMOLED, 2400x1080) / MediaTek Dimensity 1200 (3.0 ГГц + 2.6 ГГц + 2.0 ГГц) / потрійна основна камера: 108 Мп + 8 Мп + 5 Мп, фронтальна 16 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 24,
+      "imageUrl": "https://hotline.ua/img/tx/322/3228184565.jpg",
+      "name": "Xiaomi Mi 11 8/128 GB White",
+      "price": "27 659₴",
+      "description": "Екран (6.81\", AMOLED, 3200x1440) / Qualcomm Snapdragon 888 (2.84 ГГц) / потрійна основна камера: 108 Мп + 13 Мп + 5 Мп, фронтальна 20 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 (MIUI 12) / 4600 мА·год"
+    },
+    {
+      "id": 25,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/f/i/file_1560.jpg",
+      "name": "Xiaomi Mi 10 Pro 8/256GB Alpine White",
+      "price": "31 669₴",
+      "description": "Экран (6.67\", AMOLED, 2340x1080) / Qualcomm Snapdragon 865 (1х2.84 ГГц + 3х2.42 ГГц + 4х1.8 ГГц) / основная квадро-камера: 108 Мп + 20 Мп + 12 Мп + 8 Мп, фронтальная 20 Мп / RAM 8 ГБ / 256 ГБ встроенной памяти / 3G / LTE / 5G / GPS / Nano-SIM / Android 10.0 (Q) / 4500 мА*ч"
+    },
+    {
+      "id": 26,
+      "imageUrl": "https://i.xiaomi.ua/u/CatalogueImage/xiaomi-mi-11i-smartphone-0022395751623162836.jpg",
+      "name": "Xiaomi Mi 11i 8/256GB Celestial Silver",
+      "price": "22 049₴",
+      "description": "Экран (6.67\", AMOLED, 2400x1080) / Qualcomm Snapdragon 888 (2.84 ГГц) / тройная основная камера: 108 Мп + 8 Мп + 5 Мп, фронтальная 20 Мп / RAM 8 ГБ / 256 ГБ встроенной памяти / 3G / LTE / 5G / GPS / поддержка 2х СИМ-карт (Nano-SIM) / Android 11 / 4520 мА*ч"
+    },
+    {
+      "id": 27,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8320_0_1.jpg",
+      "name": "Xiaomi 11T Pro 12/256GB Meteorite Gray",
+      "price": "25 859₴",
+      "description": "Екран (6.67\", AMOLED, 2400x1080) / Qualcomm Snapdragon 888 (2.84 ГГц) / потрійна основна камера: 108 Мп + 8 Мп + 5 Мп, фронтальна 16 Мп / RAM 12 ГБ / 256 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2х СІМ-карток (Nano-SIM) / Android 11 / 5000 мА*год"
+    },
+    {
+      "id": 28,
+      "imageUrl": "https://images.prom.ua/3696401795_w640_h640_3696401795.jpg",
+      "name": "Xiaomi 11 Lite 5G NE 8/256GB (Black) Global EU",
+      "price": "15 599₴",
+      "description": "Екран (6.55\", AMOLED, 2400x1080) / Qualcomm Snapdragon 778G (2.4 ГГц + 2.2 ГГц + 1.9 ГГц) / потрійна основна камера: 64 Мп + 8 Мп + 5 Мп, фронтальна 20 Мп / RAM 8 ГБ / 256 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 4250 мА·год"
+    },
+    {
+      "id": 29,
+      "imageUrl": "https://touch.com.ua/upload/ammina.optimizer/jpg-webp/q80/upload/iblock/749/749fgyel2mkrkc3uw0lubd1y28fpj1i8.webp",
+      "name": "Xiaomi Redmi 9A 2/32 GB Granite Gray",
+      "price": "4 149₴",
+      "description": "Екран (6.53\", IPS, 1600х720) / MediaTek Helio G25 (2.0 ГГц) / основна камера: 13 Мп, фронтальна камера: 5 Мп / RAM 2 ГБ / 32 ГБ вбудованої пам'яті + microSD (до 256 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10 (Q) / 5000 мА·год"
+    },
+    {
+      "id": 30,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/d/5/d5b1267babd527c8f1c4f5d35b3ad60a.jpg",
+      "name": "Motorola Moto G60 6/128 GB Haze Gray",
+      "price": "8 999₴",
+      "description": "Екран (6.8\", IPS, 2460x1080) / Qualcomm Snapdragon 732G (2 х 2.3 ГГц + 6 х 1.8 ГГц) / основна потрійна камера: 108 Мп + 8 Мп + 2 Мп, фронтальна камера: 32 Мп / RAM 6 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 6000 мА·год"
+    },
+    {
+      "id": 31,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/d/5/d539dfc28d9b5f93d8382aa023a5b141.jpg",
+      "name": "Motorola E7 Power 4/64 GB Tahiti Blue",
+      "price": "4 699₴",
+      "description": "Екран (6.5\", IPS, 1600x720) / MediaTek Helio G25 (2.0 ГГц) / подвійна основна камера: 13 Мп + 2 Мп, фронтальна камера: 5 Мп / RAM 4 ГБ / 64 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10 / 5000 мА·год"
+    },
+    {
+      "id": 32,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/m/o/moto-e20-foco-1024x597_2_.jpg",
+      "name": "Motorola Moto E20 2/32 GB Graphite",
+      "price": "3 799₴",
+      "description": "Екран (6.5\", IPS, 1600x720) / Unisoc T606 (1.6 ГГц) / подвійна основна камера: 13 Мп + 2 Мп, фронтальна камера: 5 Мп / RAM 2 ГБ / 32 ГБ вбудованої пам'яті + microSD / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 4000 мА·год"
+    },
+    {
+      "id": 33,
+      "imageUrl": "https://ua-motorola.com/i/product/486/61ae3d06cebaf.png",
+      "name": "Motorola G200 5G 8/128GB Glacier Green",
+      "price": "18 999₴",
+      "description": "Екран (6.8\", IPS, 2460x1080) / Qualcomm Snapdragon 888+ (3.0 ГГц) / потрійна основна камера: 108 Мп + 13 Мп + 2 Мп, фронтальна 16 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2х SIM-карток (Nano-SIM) / Android 11 / 5000 мА*год"
+    },
+    {
+      "id": 34,
+      "imageUrl": "https://i.citrus.world/imgcache/size_800/uploads/shop/a/a/aa70bd353ed6fca9ba35279b76b25509.jpg",
+      "name": "Motorola Moto Edge 20 Pro 12/256GB Midnight Blue",
+      "price": "17 999₴",
+      "description": "Екран (6.67\", OLED, 2400x1080)/Qualcomm Snapdragon 870 5G (3.2 ГГц)/основна потрійна камера: 108 Мп + 16 Мп + 8 Мп, фронтальна камера: 32 Мп/RAM 12 ГБ/256 ГБ вбудованої пам'яті/3G/LTE/GPS/підтримка 2 SIM-карток (Nano-SIM)/Android 11/4500 мА*год"
+    },
+    {
+      "id": 35,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/f/i/file_2117_96.jpg",
+      "name": "Motorola Moto Edge 20 8/128 GB Frosted Grey",
+      "price": "13 999₴",
+      "description": "Екран (6.67\", OLED, 2400x1080) / Qualcomm Snapdragon 778G 5G (2.4 ГГц) / основна потрійна камера: 108 Мп + 16 Мп + 8 Мп, фронтальна камера: 32 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 4000 мА·год"
+    },
+    {
+      "id": 36,
+      "imageUrl": "https://i.allo.ua/media/Rich_Review/Motorola_E7i/1.png",
+      "name": "Motorola E7i Power 2/32 GB Coral Red",
+      "price": "3 999₴",
+      "description": "Екран (6.5\", IPS, 1600x720) / Spreadtrum SC9863A (1.6 ГГц + 1.2 ГГц) / подвійна основна камера: 13 Мп + 2 Мп, фронтальна камера: 5 Мп / RAM 2 ГБ / 32 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10 Go / 5000 мА·год"
+    },
+    {
+      "id": 37,
+      "imageUrl": "https://hotline.ua/img/tx/322/3223678225.jpg",
+      "name": "Motorola Moto Edge 20 Lite 8/128GB Electric Graphite",
+      "price": "9 999₴",
+      "description": "Екран (6.67\", OLED, 2340x1080) / MediaTek Dimensity 720 (8 х 2.0 ГГц) / основна потрійна камера: 108 Мп + 8 Мп + 2 Мп, фронтальна камера: 32 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / GPS / підтримка 2х SIM-карток (Nano-SIM) / Android 11 / 5000 мА*год"
+    },
+    {
+      "id": 38,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/6/0/60489fc997be0_result.jpg",
+      "name": "Motorola G10 4/64 GB Aurora Gray",
+      "price": "5 999₴",
+      "description": "Екран (6.5\", IPS, 1600x720) / Qualcomm Snapdragon 460 (1.8 ГГц) / основна квадрокамера: 48 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна камера: 8 Мп / RAM 4 ГБ / 64 ГБ вбудованої пам'яті + microSD (до 512 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 39,
+      "imageUrl": "https://dzvinok.ua/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/m/o/motorola_g30_6128_gb_pastel_sky-foto1.webp",
+      "name": "Motorola G30 6/128 GB Pastel Sky",
+      "price": "7 999₴",
+      "description": "Екран (6.5\", IPS, 1600x720) / Qualcomm Snapdragon 662 (2.0 ГГц) / основна квадрокамера: 64 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна камера: 13 Мп / RAM 6 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 512 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 40,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_7574_0.jpg",
+      "name": "OPPO A53 4/64 GB Blue",
+      "price": "6 499₴",
+      "description": "Екран (6.43\", LCD, 1600x720) / Qualcomm Snapdragon 460 (1.8 ГГц + 1.6 ГГц) / потрійна основна камера: 13 Мп + 2 Мп + 2 Мп, фронтальна 8 Мп / RAM 4 ГБ / 64 ГБ вбудованої пам'яті + microSD (до 256 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10 / 5000 мА·год"
+    },
+    {
+      "id": 41,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_7935_3.jpg",
+      "name": "OPPO Reno5 Lite 8/128GB Black",
+      "price": "10 999₴",
+      "description": "Екран (6.43\", AMOLED, 2400x1080) / MediaTek Helio P95 (2.2 ГГц + 2.0 ГГц) / основна квадрокамера: 48 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна 32 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 256 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 4310 мА·год"
+    },
+    {
+      "id": 42,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/i/m/img_0_60_8581_0_1_637804471310244818_result.jpg",
+      "name": "OPPO A55 4/64 GB Starry Black",
+      "price": "6 999₴",
+      "description": "Екран (6.51\", LCD, 1600x720) / MediaTek Helio G35 (2.3 ГГц) / потрійна основна камера: 50 Мп + 2 Мп + 2 Мп, фронтальна 16 Мп / RAM 4 ГБ / 64 ГБ вбудованої пам'яті + microSD (до 256 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 43,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8482_0_1_637775812759209529.jpg",
+      "name": "OPPO A16 3/32 GB Crystal Black",
+      "price": "5 299₴",
+      "description": "Екран (6.52\", LCD, 1600х720) / MediaTek Helio G35 (2.3 ГГц) / потрійна основна камера: 13 Мп + 2 Мп + 2 Мп, фронтальна 8 Мп / RAM 3 ГБ / 32 ГБ вбудованої пам'яті + microSD (до 256 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 44,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/b/e/beta_prism_black__result.jpg",
+      "name": "OPPO A74 4/128 GB Black",
+      "price": "8 999₴",
+      "description": "Екран (6.43\", AMOLED, 2400x1080) / Qualcomm Snapdragon 662 (2.0 ГГц) / потрійна основна камера: 48 Мп + 2 Мп + 2 Мп, фронтальна 16 Мп / RAM 4 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 45,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8040_0.jpg",
+      "name": "OPPO A54 4/64GB Blue",
+      "price": "6 399₴",
+      "description": "Екран (6.51\", IPS, 1600x720) / MediaTek Helio P35 (2.3 ГГц + 1.8 ГГц) / потрійна основна камера: 13 Мп + 2 Мп + 2 Мп, фронтальна 16 Мп / RAM 4 ГБ / 64 ГБ вбудованої пам'яті + microSD (до 256 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10 / 5000 мА·год"
+    },
+    {
+      "id": 46,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8094_1.jpg",
+      "name": "OPPO A54 4/128 GB Black",
+      "price": "6 499₴",
+      "description": "Екран (6.51\", IPS, 1600x720) / MediaTek Helio P35 (2.3 ГГц + 1.8 ГГц) / потрійна основна камера: 13 Мп + 2 Мп + 2 Мп, фронтальна 16 Мп / RAM 4 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 256 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10 / 5000 мА·год"
+    },
+    {
+      "id": 47,
+      "imageUrl": "https://img.ktc.ua/img/base/1/7/325837.jpg",
+      "name": "OPPO A15 2/32 GB Dynamic",
+      "price": "6 499₴",
+      "description": "Екран (6.51\", IPS, 1600x720) / MediaTek Helio P35 (2.3 ГГц + 1.8 ГГц) / потрійна основна камера: 13 Мп + 2 Мп + 2 Мп, фронтальна 16 Мп / RAM 4 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 256 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10 / 5000 мА·год"
+    },
+    {
+      "id": 48,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_7866_0.jpg",
+      "name": "OPPO A15 2/32 GB Dynamic Black",
+      "price": "4 399₴",
+      "description": "Екран (6.52\", IPS, 1600х720) / MediaTek Helio P35 (2.3 ГГц + 1.8 ГГц) / потрійна основна камера: 13 Мп + 2 Мп + 2 Мп, фронтальна 5 Мп / RAM 2 ГБ / 32 ГБ вбудованої пам'яті + microSD (до 256 ГБ) / 3G / LTE / GPS / BDS / ГЛОНАСС / підтримка 2 SIM-карток (Nano-SIM) / Android 10.0 (Q) / 4230 мА·год"
+    },
+    {
+      "id": 49,
+      "imageUrl": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/600x/9df78eab33525d08d6e5fb8d27136e95/r/e/realme-c21-blue.jpg",
+      "name": "Realme C21Y 4/64 GB",
+      "price": "4 999₴",
+      "description": "Екран (6.5\", LCD, 1600x720) / Unisoc Tiger T610 (1.8 ГГц) / потрійна основна камера: 13 Мп + 2 Мп + 2 Мп, фронтальна камера: 5 Мп / RAM 4 ГБ / 64 ГБ вбудованої пам'яті + microSD (до 128 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10 / 5000 мА·год"
+    },
+    {
+      "id": 50,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8447_0_1_637740622743156690.jpg",
+      "name": "Realme C25Y 4/128 GB Metal Grey",
+      "price": "6 299₴",
+      "description": "Екран (6.5\", LCD, 1600x720) / Unisoc Tiger T618 (1.8 ГГц) / потрійна основна камера: 50 Мп + 2 Мп + 2 Мп, фронтальна камера: 8 Мп / RAM 4 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 256 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 51,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8125_0.jpg",
+      "name": "Realme C11 2021 2/32 GB Gray",
+      "price": "3 899₴",
+      "description": "Екран (6.52\", IPS, 1600x720) / Unisoc SC9863A (1.6 ГГц + 1.2 ГГц) / основна камера: 8 Мп, фронтальна 5 Мп / RAM 2 ГБ / 32 ГБ вбудованої пам'яті + microSD / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 52,
+      "imageUrl": "https://cdn.comfy.ua/media/catalog/product/cache/4/image/600x/9df78eab33525d08d6e5fb8d27136e95/r/e/realme_8_silver_1_1_.jpg",
+      "name": "Realme 8 6/128 GB Cyber Silver",
+      "price": "8 699₴",
+      "description": "Екран (6.4\", Super AMOLED, 2400x1080) / MediaTek Helio G95 (2.05 ГГц) / основна квадрокамера: 64 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна 16 Мп / RAM 6 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 256 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 53,
+      "imageUrl": "https://openshop.ua/image/cache/catalog/prod_crm/smartfony-2202/IMGd9c22d7c1a2387d93333cb8f33d173e5-1200x1200.jpg",
+      "name": "Realme GT Master Edition 6/128GB White",
+      "price": "10 999₴",
+      "description": "Экран (6.43\", Super AMOLED, 2400x1080) / Qualcomm Snapdragon 778G (2.4 ГГц) / тройная основная камера: 64 Мп + 8 Мп + 2 Мп, фронтальная камера: 32 Мп / RAM 6 ГБ / 128 ГБ встроенной памяти / 3G / LTE / 5G / GPS / поддержка 2х SIM-карт (Nano-SIM) / Android 11 / 4300 мА*ч"
+    },
+    {
+      "id": 54,
+      "imageUrl": "https://citrafon.com.ua/image/cache/catalog/product/Oppo/realme-8-pro/realme-8-pro-infinite-black-min-800x800.jpg",
+      "name": "Realme 8 Pro 8/128 GB Infinite Black",
+      "price": "10 469₴",
+      "description": "Екран (6.4\", Super AMOLED, 2400x1080) / Qualcomm Snapdragon 720G (2.3 ГГц) / основна квадрокамера: 108 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна камера: 16 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті + microSD / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 4500 мА·год"
+    },
+    {
+      "id": 55,
+      "imageUrl": "https://hotline.ua/img/tx/322/3221240935.jpg",
+      "name": "Realme GT 5G 8/128 GB Yellow",
+      "price": "16 999₴",
+      "description": "Екран (6.43\", Super AMOLED, 2400x1080) / Qualcomm Snapdragon 888 (2.84 ГГц) / потрійна основна камера: 64 Мп + 8 Мп + 2 Мп, фронтальна камера: 16 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 4500 мА·год"
+    },
+    {
+      "id": 56,
+      "imageUrl": "https://hotline.ua/img/tx/314/3141110495.jpg",
+      "name": "Realme GT Neo 2 12/256GB ",
+      "price": "18 999₴",
+      "description": "Экран (6.62\", AMOLED, 2400x1080) / Qualcomm Snapdragon 870 (3.2 ГГц + 2.4 ГГц + 1.8 ГГц) / тройная основная камера: 64 Мп + 8 Мп + 2 Мп, фронтальная камера: 16 Мп / RAM 12 ГБ / 256 ГБ встроенной памяти / 3G / LTE / 5G / GPS / поддержка 2х SIM-карт (Nano-SIM) / Android 11 / 5000 мА*ч"
+    },
+    {
+      "id": 57,
+      "imageUrl": "https://c.ua/image/cache/catalog/Koratirend72/V2020/zte_blade_v2020_smart_4128gb_grey_images_20199572866-800x800.jpg",
+      "name": "ZTE Blade V2020 Smart 4/64 GB Grey",
+      "price": "4 699₴",
+      "description": "Екран (6.82\", TFT, 1640x720) / Unisoc SC9863A (1.6 ГГц + 1.2 ГГц) / основна квадрокамера: 16 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна 8 Мп / RAM 4 ГБ / 64 ГБ вбудованої пам'яті + microSD (до 512 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10.0 (Q) / 5000 мА·год"
+    },
+    {
+      "id": 58,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/2/0/2031600_result_1.jpg",
+      "name": "ZTE Blade A51 2/32 GB Blue",
+      "price": "3 599₴",
+      "description": "Екран (6.52\", IPS, 1600x720) / Spreadtrum SC9863A (1.6 ГГц) / подвійна основна камера: 13 Мп + 2 Мп, фронтальна камера: 5 Мп / RAM 2 ГБ / 32 ГБ вбудованої пам'яті + microSD (до 512 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 3200 мА·год"
+    },
+    {
+      "id": 59,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/g/r/gr1sxwwskh1.jpg",
+      "name": "ZTE Blade A51 2/64 GB Gray",
+      "price": "4 199₴",
+      "description": "Екран (6.52\", IPS, 1600x720) / Spreadtrum SC9863A (1.6 ГГц) / подвійна основна камера: 13 Мп + 2 Мп, фронтальна камера: 5 Мп / RAM 2 ГБ / 64 ГБ вбудованої пам'яті + microSD (до 512 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 3200 мА·год"
+    },
+    {
+      "id": 60,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/5/6/5673532454356.jpg",
+      "name": "ZTE Blade A71 3/64 GB Gray",
+      "price": "4 699₴",
+      "description": "Екран (6.52\", IPS, 1600x720) / Spreadtrum SC9863A (1.6 ГГц) / потрійна основна камера: 16 Мп + 8 Мп + 2 Мп, фронтальна камера: 8 Мп / RAM 3 ГБ / 64 ГБ вбудованої пам'яті + microSD (до 512 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 4000 мА·год"
+    },
+    {
+      "id": 61,
+      "imageUrl": "https://i.eldorado.ua/goods_images/1038946/7627995-1642069856.jpg",
+      "name": "ZTE RedMagic 6R 8/128 GB Cosmos",
+      "price": "16 999₴",
+      "description": "Екран (6.67\", AMOLED, 2400x1080) / Qualcomm Snapdragon 888 (2.84 ГГц) / основна квадрокамера: 64 Мп + 8 Мп + 5 Мп + 2 Мп, фронтальна 16 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / NFC / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 4200 мА·год"
+    },
+    {
+      "id": 62,
+      "imageUrl": "https://domcomfort.ua/smartfon-zte-blade-a31-2-32-gb-blue-1.jpg",
+      "name": "ZTE Blade A31 2/32 GB Blue",
+      "price": "2 899₴",
+      "description": "Екран (5.45\", IPS, 1440x720) / Spreadtrum SC9863A (1.6 ГГц) / основна камера: 8 Мп, фронтальна камера: 5 Мп / RAM 2 ГБ / 32 ГБ вбудованої пам'яті + microSD / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 3000 мА·год"
+    },
+    {
+      "id": 63,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/3/5/356735673567.jpg",
+      "name": "ZTE Blade V30 Vita 4/128 GB Gray",
+      "price": "5 689₴",
+      "description": "Екран (6.82\", IPS, 1640x720) / Unisoc SC9863A (1.6 ГГц) / потрійна основна камера: 48 Мп + 5 Мп + 2 Мп, фронтальна камера: 8 Мп / RAM 4 ГБ / 128 ГБ вбудованої пам'яті + microSD / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 64,
+      "imageUrl": "https://images.izi.ua/167801303",
+      "name": "ZTE Nubia Play 5G 8/256GB Blue",
+      "price": "11 999₴",
+      "description": "Екран (6.65\", AMOLED, 2340x1080) / Qualcomm Snapdragon 765G (2.4 ГГц) / основна квадрокамера: 48 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна 8 Мп / RAM 8 ГБ / 256 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10 / 5100 мА·год"
+    },
+    {
+      "id": 65,
+      "imageUrl": "https://brain.com.ua/static/images/prod_img/4/9/U0534849_big.jpg",
+      "name": "ZTE Nubia Play 5G 8/128GB Black",
+      "price": "10 099₴",
+      "description": "Екран (6.65\", AMOLED, 2340x1080) / Qualcomm Snapdragon 765G (2.4 ГГц) / основна квадрокамера: 48 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна 8 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10 / 5100 мА·год"
+    },
+    {
+      "id": 66,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8135_0.jpg",
+      "name": "Asus ZenFone 8 16/256 GB Silver",
+      "price": "25 999₴",
+      "description": "Екран (5.9\", AMOLED, 2400x1080) / Qualcomm Snapdragon 888 (2.84 ГГц) / подвійна основна камера: 64 Мп + 12 Мп, фронтальна 12 Мп / RAM 16 ГБ / 256 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 4000 мА·год"
+    },
+    {
+      "id": 67,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/1/d/1dda97ec22917c0f177a89f9726ff26a_result.jpg",
+      "name": "Asus ZenFone 8 Flip 8/256 GB Galactic Black",
+      "price": "23 999₴",
+      "description": "Екран (6.67\", AMOLED, 2400x1080) / Qualcomm Snapdragon 888 (2.84 ГГц) / потрійна поворотна камера: 64 Мп + 12 Мп + 8 Мп / RAM 8 ГБ / 256 ГБ вбудованої пам'яті + microSD (до 2 ТБ) / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 68,
+      "imageUrl": "https://hotline.ua/img/tx/278/2789983605.jpg",
+      "name": "Asus ROG Phone 5 12/256 GB Phantom Black",
+      "price": "33 399₴",
+      "description": "Екран (6.78\", AMOLED, 2448x1080) / Qualcomm Snapdragon 888 (2.84 ГГц) / потрійна основна камера: 64 Мп + 13 Мп + 5 Мп, фронтальна 24 Мп / RAM 12 ГБ / 256 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 6000 мА·год"
+    },
+    {
+      "id": 69,
+      "imageUrl": "https://c.ua/image/cache/catalog/VladimirGorchakov/ASUSROGPhone5s/bla/photo_2021-12-17_16-08-56-500x500.jpg",
+      "name": "Asus ROG Phone 5s 16/512 GB Phantom Black",
+      "price": "34 999₴",
+      "description": "Екран (6.78\", AMOLED, 2448x1080) / Qualcomm Snapdragon 888+ (3.0 ГГц) / потрійна основна камера: 64 Мп + 13 Мп + 5 Мп, фронтальна 24 Мп / RAM 16 ГБ / 512 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 6000 мА·год"
+    },
+    {
+      "id": 70,
+      "imageUrl": "https://img.moyo.ua/img/gallery/5000/97/1253608_middle.jpg?1632315499",
+      "name": "Asus ROG Phone 5 16/256 GB Phantom Black",
+      "price": "41 149₴",
+      "description": "Екран (6.78\", AMOLED, 2448x1080) / Qualcomm Snapdragon 888 (2.84 ГГц) / потрійна основна камера: 64 Мп + 13 Мп + 5 Мп, фронтальна 24 Мп / RAM 16 ГБ / 256 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 6000 мА·год"
+    },
+    {
+      "id": 71,
+      "imageUrl": "https://i.citrus.world/imgcache/size_800/uploads/shop/5/c/5cf39b54416ab617d0ed587f13fbee36.jpg",
+      "name": "Asus ROG Phone 5s 12/512 GB Phantom Black",
+      "price": "41 149₴",
+      "description": "Екран (6.78\", AMOLED, 2448x1080) / Qualcomm Snapdragon 888+ (3.0 ГГц) / потрійна основна камера: 64 Мп + 13 Мп + 5 Мп, фронтальна 24 Мп / RAM 12 ГБ / 512 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 6000 мА·год"
+    },
+    {
+      "id": 72,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/2/1/2188259845_result_1_1_1_1.jpg",
+      "name": "Doogee S68 Pro 6/128GB Black",
+      "price": "9 859₴",
+      "description": "Екран (5.9\", IPS, 2280х1080) / MediaTek Helio P70 (2.1 ГГц) / потрійна основна камера: 21 Мп + 8 Мп + 8 Мп, фронтальна камера: 16 Мп / RAM 6 ГБ / 128 ГБ вбудованої пам'яті + microSD / SDHC (до 128 ГБ) / 3G / LTE / GPS / ГЛОНАСС / підтримка 2 SIM-карток (Nano-SIM) / Android 9.0 (Pie) / 6300 мА·год"
+    },
+    {
+      "id": 73,
+      "imageUrl": "https://content1.rozetka.com.ua/goods/images/big/190512743.jpg",
+      "name": "Doogee X96 Pro 4/64 GB Green",
+      "price": "4 549₴",
+      "description": "Екран (6.52\", LCD, 1600x720) / Unisoc SC9863A (1.6 ГГц) / основна квадрокамера: 13 Мп + 2 Мп + 2 Мп + 2 Мп, фронтальна камера: 8 Мп / RAM 4 ГБ / 64 ГБ вбудованої пам'яті + T-Flash (до 256 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5400 мА·год"
+    },
+    {
+      "id": 74,
+      "imageUrl": "https://s-m.market/IMAGES/upload_xml/20210611/smartfon-doogee-s86-6128gb-red_32961_0.jpg",
+      "name": "Doogee S86 6/128GB Red",
+      "price": "8 839₴",
+      "description": "Экран (6.1\", LCD, 1560x720) / MediaTek Helio P60 (2.0 ГГц) / основная квадро-камера: 16 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальная камера: 8 Мп / RAM 6 ГБ / 128 ГБ встроенной памяти + T-Flash (до 256 ГБ) / 3G / LTE / GPS / поддержка 2х SIM-карт (Nano-SIM) / Android 10 / 8500 мА*ч"
+    },
+    {
+      "id": 75,
+      "imageUrl": "https://content.rozetka.com.ua/goods/images/original/152391754.jpg",
+      "name": "Doogee N20 Pro 6/128 Gb Purple",
+      "price": "6 319₴",
+      "description": "Екран (6.3\", IPS, 2280х1080) / MediaTek Helio P60 (2.0 ГГц) / основна квадрокамера: 16 Мп + 8 Мп + 2 Мп + 0.3 Мп, фронтальна камера: 16 Мп / RAM 6 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 256 ГБ) / 3G / LTE / GPS / ГЛОНАСС / BDS / підтримка 2 SIM-карток (Nano-SIM) / Android 10.0 (Q) / 4400 мА·год"
+    },
+    {
+      "id": 76,
+      "imageUrl": "https://bemobi.com.ua/image/cache/data/Doogee/s-series/doogee-s40-3-32-yellow/doogee-s40-3-32-yellow-650x650.jpg",
+      "name": "Doogee S40 3/32GB",
+      "price": "4 209₴",
+      "description": "Екран (5.5\", 960х480) / MediaTek MT6739 (1.5 ГГц) / основна подвійна камера: 8 Мп + 5 Мп, фронтальна камера: 8 Мп / RAM 3 ГБ / 32 ГБ вбудованої пам'яті + microSD (до 64 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 9.0 (Pie) / 4650 мА·год"
+    },
+    {
+      "id": 77,
+      "imageUrl": "https://hotline.ua/img/tx/321/3217283655.jpg",
+      "name": "Meizu M10 3/32GB Black",
+      "price": "5 999₴",
+      "description": "Екран (5.5\", 960х480) / MediaTek MT6739 (1.5 ГГц) / основна подвійна камера: 8 Мп + 5 Мп, фронтальна камера: 8 Мп / RAM 3 ГБ / 32 ГБ вбудованої пам'яті + microSD (до 64 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 9.0 (Pie) / 4650 мА·год"
+    },
+    {
+      "id": 78,
+      "imageUrl": "https://hotline.ua/img/tx/321/3217283655.jpg",
+      "name": "Meizu M10 3/32 Black",
+      "price": "3 177₴",
+      "description": "Екран (6.5\", IPS, 1600x720) / Mediatek Helio P25 (2.6 ГГц) / основна потрійна камера: 13 Мп + 2 Мп + 2 Мп, фронтальна камера: 8 Мп / RAM 3 ГБ / 32 ГБ вбудованої пам'яті + microSD (до 128 ГБ) / 3G / LTE / GPS / ГЛОНАСС / підтримка 2 SIM-карток (Nano-SIM) / Android 9 (Pie) / 4000 мА·год"
+    },
+    {
+      "id": 79,
+      "imageUrl": "https://hotline.ua/img/tx/320/3209840275.jpg",
+      "name": "Meizu M10 2/32 GB Black",
+      "price": "4 109₴",
+      "description": "Екран (6.5\", IPS, 1600x720) / Mediatek Helio P25 (2.6 ГГц) / основна потрійна камера: 13 Мп + 2 Мп + 2 Мп, фронтальна камера: 8 Мп / RAM 2 ГБ / 32 ГБ вбудованої пам'яті + microSD (до 128 ГБ) / 3G / LTE / GPS / ГЛОНАСС / підтримка 2 SIM-карток (Nano-SIM) / Android 9 (Pie) / 4000 мА·год"
+    },
+    {
+      "id": 80,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8130_0.jpg",
+      "name": "Vivo V21E 8/128 GB Roman Black",
+      "price": "10 699₴",
+      "description": "Екран (6.44\", AMOLED, 2400х1080) / Qualcomm Snapdragon 720G (2.3 ГГц) / потрійна основна камера: 64 Мп + 8 Мп + 2 Мп, фронтальна камера 44 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 4000 мА·год"
+    },
+    {
+      "id": 81,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/8/9/89e583e555123c323edb30789e8c2d9f_result.jpg",
+      "name": "Vivo Y31 4/128 GB Racing Black",
+      "price": "6 999₴",
+      "description": "Екран (6.58\", IPS, 2408х1080) / Qualcomm Snapdragon 662 (1.8 ГГц) / потрійна основна камера: 48 Мп + 2 Мп + 2 Мп, фронтальна камера: 8 Мп / RAM 4 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / GPS / ГЛОНАСС / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 82,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8114_0.jpg",
+      "name": "Vivo V21 8/128 GB Dusk Blue",
+      "price": "13 799₴",
+      "description": "Екран (6.44\", AMOLED, 2404х1080) / MediaTek Dimensity 800U (2.4 ГГц + 2.0 ГГц) / потрійна основна камера: 64 Мп + 8 Мп + 2 Мп, фронтальна камера 44 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 4000 мА·год"
+    },
+    {
+      "id": 83,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8390_1_1.jpg",
+      "name": "VIVO Y33s 4/128 GB",
+      "price": "8 199₴",
+      "description": "Екран (6.58\", LCD, 2408x1080) / MediaTek Helio G80 (2.0 ГГц + 1.8 ГГц) / потрійна основна камера: 50 Мп + 2 Мп + 2 Мп, фронтальна камера: 16 Мп / RAM 4 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 84,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8578_0_1_637800989923611033.jpg",
+      "name": "Vivo V23 5G 8/128 GB Stardust Black",
+      "price": "16 999₴",
+      "description": "Екран (6.44\", AMOLED, 2400x1080) / MediaTek Dimensity 920 (2.5 ГГц + 2.0 ГГц) / потрійна основна камера: 64 Мп + 8 Мп + 2 Мп, подвійна фронтальна камера: 50 Мп + 8 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 12 / 4200 мА·год"
+    },
+    {
+      "id": 85,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/3/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/v/2/v23e-8gb-128gb-dancing-waves-telefon-gsm-vivo-2_result.jpg",
+      "name": "Vivo V23e 8/128 GB Dancing Waves",
+      "price": "12 799₴",
+      "description": "Екран (6.44\", AMOLED, 2400x1080) / MediaTek Helio G96 (2.05 ГГц) / потрійна основна камера: 64 Мп + 8 Мп + 2 Мп, фронтальна 50 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті + microSD / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 12 / 4050 мА·год"
+    },
+    {
+      "id": 86,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8383_9_1.jpg",
+      "name": "Huawei Nova 8i 6/128 GB Starry Black",
+      "price": "7 999₴",
+      "description": "Екран (6.67\", IPS, 2376x1080) / Qualcomm Snapdragon 662 (2.0 ГГц) / основна квадрокамера: 64 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна 16 Мп / RAM 6 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10 (EMUI 11.0) / 4300 мА·год"
+    },
+    {
+      "id": 87,
+      "imageUrl": "https://hotline.ua/img/tx/305/3054080425.jpg",
+      "name": "Huawei Nova 9 8/128 GB Black",
+      "price": "16 999₴",
+      "description": "Екран (6.57\", OLED, 2340x1080) / Qualcomm Snapdragon 778G (2.4 ГГц) / основна квадрокамера: 50 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна 32 Мп / RAM 8 ГБ / 128 ГБ вбудованої пам'яті / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10 / 4300 мА·год"
+    },
+    {
+      "id": 88,
+      "imageUrl": "https://cdn.comfy.ua/media/catalog/product/cache/4/image/600x/9df78eab33525d08d6e5fb8d27136e95/_/h/_huawei_p_smart_2021_4128_crush_green_6_.jpg",
+      "name": "Huawei P Smart 2021 NFC 128 GB Green",
+      "price": "5 499₴",
+      "description": "Екран (6.67\", IPS, 2400x1080) / HiSilicon Kirin 710A (2.0 ГГц + 1.7 ГГц) / дві основні камери: 48 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна камера: 8 Мп / RAM 4 ГБ / 128 ГБ вбудованої пам'яті + microSD / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10 / 5000 мА·год"
+    },
+    {
+      "id": 89,
+      "imageUrl": "https://gizmobo.com/wp-content/uploads/2022/02/Nokia-G21.webp",
+      "name": "Nokia G21 4/64 Nordic Blue",
+      "price": "6 099₴",
+      "description": "Экран (6.5\", IPS, 1600x720) / Unisoc T606 (2 x 1.6 ГГц + 6 x 1.6 ГГц) / тройная основная камера: 50 Мп + 2 Мп + 2 Мп, фронтальная 8 Мп / RAM 4 ГБ / 64 ГБ встроенной памяти + microSD (до 512 ГБ) / 3G / LTE / GPS / поддержка 2х SIM-карт (Nano-SIM) / Android 12 / 5050 мА*ч"
+    },
+    {
+      "id": 90,
+      "imageUrl": "https://med.greatecno.com/510101-large_default/nokia-g11-3gb-32gb-dual-sim-ice.jpg",
+      "name": "Nokia G11 3/32 Ice",
+      "price": "4 699₴",
+      "description": "Экран (6.5\", IPS, 1600x720) / Unisoc T606 (2 x 1.6 ГГц + 6 x 1.6 ГГц) / тройная основная камера: 13 Мп + 2 Мп + 2 Мп, фронтальная 8 Мп / RAM 3 ГБ / 32 ГБ встроенной памяти + microSD (до 512 ГБ) / 3G / LTE / GPS / поддержка 2х SIM-карт (Nano-SIM) / Android 12 / 5050 мА*ч"
+    },
+    {
+      "id": 91,
+      "imageUrl": "https://ae04.alicdn.com/kf/Sd8137745b0b947f08e96d41054e87faa3/Nokia-NOKIA-C30-DS-TA-1359-GREEN-2-32-17-32-6.jpg",
+      "name": "Nokia C30 2/32 GB DS Green",
+      "price": "4 299₴",
+      "description": "Екран (6.82\", 1600x720) / Unisoc SC9863A (1.6 ГГц + 1.2 ГГц) / подвійна основна камера: 13 Мп + 2 Мп, фронтальна 5 Мп / RAM 2 ГБ / 32 ГБ вбудованої пам'яті + microSD (до 256 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 6000 мА·год"
+    },
+    {
+      "id": 92,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8025_3.jpg",
+      "name": "Poco F3 8/256 GB Night Black",
+      "price": "14 799₴",
+      "description": "Екран (6.67\", AMOLED, 2400x1080) / Qualcomm Snapdragon 870 (3.2 ГГц) / потрійна основна камера: 48 Мп + 8 Мп + 5 Мп, фронтальна 20 Мп / RAM 8 ГБ / 256 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 4520 мА·год"
+    },
+    {
+      "id": 93,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/4/7/47845674567.jpg",
+      "name": "Poco X3 Pro 8/256 GB Phantom Black",
+      "price": "10 599₴",
+      "description": "Екран (6.67\", LCD, 2400x1080) / Qualcomm Snapdragon 860 (2.96 ГГц) / основна квадрокамера: 48 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна 20 Мп / RAM 8 ГБ / 256 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5160 мА·год"
+    },
+    {
+      "id": 94,
+      "imageUrl": "https://i.allo.ua/media/catalog/product/cache/1/image/710x600/602f0fa2c1f0d1ba5e241f914e856ff9/4/5/4564534567_1.jpg",
+      "name": "Poco X3 Pro 6/128 GB Metal Bronze",
+      "price": "9 599₴",
+      "description": "Екран (6.67\", LCD, 2400x1080) / Qualcomm Snapdragon 860 (2.96 ГГц) / основна квадрокамера: 48 Мп + 8 Мп + 2 Мп + 2 Мп, фронтальна 20 Мп / RAM 6 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5160 мА·год"
+    },
+    {
+      "id": 95,
+      "imageUrl": "https://brain.com.ua/static/images/prod_img/8/8/U0599088_11big.jpg",
+      "name": "Poco M4 Pro 5G 6/128 GB Power Black",
+      "price": "9 499₴",
+      "description": "Екран (6.6\", 2400x1080) / MediaTek Dimensity 810 (2.4 ГГц + 2.0 ГГц) / подвійна основна камера: 50 Мп + 8 Мп, фронтальна 16 Мп / RAM 6 ГБ / 128 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 96,
+      "imageUrl": "https://hotline.ua/img/tx/324/3249468655.jpg",
+      "name": "Poco M3 Pro 4/64 GB Black",
+      "price": "7 399₴",
+      "description": "Екран (6.5\", 2400x1080) / MediaTek Dimensity 700 (2.2 ГГц) / потрійна основна камера: 48 Мп + 2 Мп + 2 Мп, фронтальна 8 Мп / RAM 4 ГБ / 64 ГБ вбудованої пам'яті / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 97,
+      "imageUrl": "https://hotline.ua/img/tx/307/3072096655.jpg",
+      "name": "Poco M4 Pro 5G 4/64 GB Power Black",
+      "price": "8 499₴",
+      "description": "Екран (6.6\", 2400x1080) / MediaTek Dimensity 810 (2.4 ГГц + 2.0 ГГц) / подвійна основна камера: 50 Мп + 8 Мп, фронтальна 16 Мп / RAM 4 ГБ / 64 ГБ вбудованої пам'яті + microSD (до 1 ТБ) / 3G / LTE / 5G / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 11 / 5000 мА·год"
+    },
+    {
+      "id": 98,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_8206_0_1.jpg",
+      "name": "Alcatel 3L 2020 Dual SIM 4/64GB",
+      "price": "5 399₴",
+      "description": "Экран (6.22\", IPS, 1520x720) / MediaTek Helio P22 (1.8 ГГц + 1.5 ГГц) / тройная основная камера: 48 Мп + 5 Мп + 2 Мп, фронтальная 8 Мп / RAM 4 ГБ / 64 ГБ встроенной памяти + microSD (до 128 ГБ) / 3G / LTE / GPS / поддержка 2х SIM-карт (Nano-SIM) / Android 10 / 4000 мА*ч"
+    },
+    {
+      "id": 99,
+      "imageUrl": "https://files.foxtrot.com.ua/PhotoNew/img_0_60_7744_1.jpg",
+      "name": "Alcatel 1SE (5030D) 3/32 GB Dual SIM Power Gray",
+      "price": "4 299₴",
+      "description": "Екран (6.22\", IPS, 1520x720) / Unisoc SC9863A (1.6 ГГц + 1.2 ГГц) / потрійна основна камера: 13 Мп + 5 Мп + 2 Мп, фронтальна 5 Мп / RAM 3 ГБ / 32 ГБ вбудованої пам'яті + microSD (до 64 ГБ) / 3G / LTE / GPS / підтримка 2 SIM-карток (Nano-SIM) / Android 10.0 (Q) / 4000 мА·год"
+    }
+  ]
+}
